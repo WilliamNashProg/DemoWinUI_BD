@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo.Models.Types
+namespace Demo.Data.Models.Types
 {
     public enum TypeGateau
     {

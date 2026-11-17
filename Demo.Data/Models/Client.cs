@@ -1,7 +1,7 @@
-﻿using Demo.Models.Types;
+﻿using Demo.Data.Models.Types;
 using System;
 
-namespace Demo.Models
+namespace Demo.Data.Models
 {
     public class Client
     {
